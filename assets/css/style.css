@@ -1,0 +1,24 @@
+header{background-color: green;
+}
+.header nav ul {
+
+    background-color: black;
+    float: right;
+    
+}
+
+h1 {text-align: center; color: white;
+
+}
+
+
+
+li {
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+  }
+  footer {
+      text-align: center;
+      padding: 30px
+  }
